@@ -1,2 +1,2 @@
 # LGMVIP-WebDev
-My first repository
+LGMVIP-WebDev LGM Task1
